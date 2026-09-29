@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my work as a Software Engineer specializing in backend development.
 
-🔗 **Live Site**: [https://sprintooo.github.io](https://himanpatidar.github.io)
+🔗 **Live Site**: [https://himanpatidar.github.io](https://himanpatidar.github.io)
 
 ## About
 
